@@ -1,5 +1,5 @@
 {
-    "name": "niklasravnsborg/laravel-pdf",
+    "name": "catalinbozianu/laravel-pdf",
     "description": "Generate PDFs in Laravel with this mPDF wrapper.",
     "keywords": ["mpdf", "pdf", "laravel"],
     "license": "MIT",
@@ -8,6 +8,6 @@
         "niklasravnsborg/mpdf": "^6.1"
     },
     "autoload": {
-        "psr-4": {"niklasravnsborg\\LaravelPdf\\": "src/LaravelPdf"}
+        "psr-4": {"catalinbozianu\\LaravelPdf\\": "src/LaravelPdf"}
     }
 }
