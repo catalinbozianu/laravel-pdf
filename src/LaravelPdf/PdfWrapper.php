@@ -10,7 +10,7 @@ namespace niklasravnsborg\LaravelPdf;
  */
 class PdfWrapper {
 
-	protected $mpdf;
+	public $mpdf;
 	protected $rendered = false;
 	protected $options;
 
